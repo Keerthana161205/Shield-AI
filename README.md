@@ -17,11 +17,14 @@ The objective of this project is to detect cyberbullying text automatically and 
 Frontend:
 - HTML
 - CSS
+  
 Backend:
 - Python
 - Flask
+  
 Database:
 - SQLite
+  
 Machine Learning:
 - Scikit learn
 - Pandas
